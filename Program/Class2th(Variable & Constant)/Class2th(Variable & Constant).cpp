@@ -3,13 +3,38 @@
 void main()
 {
 #pragma region 산수 연산자
+	int storage1 = 0;
+	int storage2 = 0;
+	int storage3 = 0;
+	int storage4 = 0;
+	int storage5 = 0;
+
+	int x = 10;
+	int y = 5;
+	int z = 1;
+	int w = 10;
+
+	const int constant = 5; // 상수 선언
 	// 산술 연산자는 두 개의 피연산자 사이에 산술 연산을 수행하는 연산자.
 	// +. - , * , / , % 
 	// 1. 변수 = 변수 + 변수 
+	storage1 = x + y; 
 	// 2. 변수 = 변수 - 리터럴 상수 
+	storage2 = z - 1;
 	// 3. 변수 = 변수 * 심볼릭 상수 
+	storage3 = w * constant;
 	// 4. 변수 = 리터럴 상수 / 리터럴 상수
+	storage4 = 10 / 2;
 	// 5. 변수 = 심볼릭 상수 % 리터럴 상수
+	storage5 = constant % 5;
+
+	printf("storage1의 값 : %d\n",storage1 );
+	printf("storage2의 값 : %d\n", storage2);
+	printf("storage3의 값 : %d\n", storage3);
+	printf("storage4의 값 : %d\n", storage4);
+	printf("storage5의 값 : %d\n", storage5);
+
+
 #pragma endregion
 
 #pragma region 비트
@@ -58,5 +83,6 @@ void main()
 
 
 #pragma endregion
+#pragma endregion	
 
 }
