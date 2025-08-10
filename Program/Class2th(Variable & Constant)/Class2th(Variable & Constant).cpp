@@ -85,4 +85,18 @@ void main()
 #pragma endregion
 #pragma endregion	
 
+#pragma region 시프트 연산자
+	// 비트를 특정한 위치로 정해진 수만큼 이동시키는 연산자입니다.
+
+	int data = 5; // 0000 0101
+
+	int shift = data << 2; //  왼쪽을로 두 칸 이동
+
+	printf("shift의 값 : %d\n", shift); 
+
+	shift = data >> 1; // 오른쪽으로 한 칸 이동
+
+	printf("shift의 값 : %d\n", shift);
+#pragma endregion
+
 }
