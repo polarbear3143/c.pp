@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71B87C0B-4FDE-48A1-89AA-941E15B24C88}|c\\c.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71B87C0B-4FDE-48A1-89AA-941E15B24C88}|c\\c.vcxproj|solutionrelative:c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D1B5CDFB-848F-47C0-9B45-CF907834EA2F}|bp\\bp.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bp\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D1B5CDFB-848F-47C0-9B45-CF907834EA2F}|bp\\bp.vcxproj|solutionrelative:bp\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{50B58FF5-EDF0-4F9C-BE52-03297C082B0A}|bit.c\\bit.c.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bit.c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{50B58FF5-EDF0-4F9C-BE52-03297C082B0A}|bit.c\\bit.c.vcxproj|solutionrelative:bit.c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{ADC83204-4142-428B-B4B8-AA83D2EB82BC}|Program\\Program.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ADC83204-4142-428B-B4B8-AA83D2EB82BC}|Program\\Program.vcxproj|solutionrelative:Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B69BAA35-564F-40D3-AE6C-9FD9B1599CA0}|Class2th(Variable \u0026 Constant)\\Class2th(Variable \u0026 Constant).vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\Class2th(Variable \u0026 Constant)\\Class2th(Variable \u0026 Constant).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B69BAA35-564F-40D3-AE6C-9FD9B1599CA0}|Class2th(Variable \u0026 Constant)\\Class2th(Variable \u0026 Constant).vcxproj|solutionrelative:Class2th(Variable \u0026 Constant)\\Class2th(Variable \u0026 Constant).cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ADC83204-4142-428B-B4B8-AA83D2EB82BC}|Program\\Program.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{ADC83204-4142-428B-B4B8-AA83D2EB82BC}|Program\\Program.vcxproj|solutionrelative:Program\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{50B58FF5-EDF0-4F9C-BE52-03297C082B0A}|bit.c\\bit.c.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bit.c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50B58FF5-EDF0-4F9C-BE52-03297C082B0A}|bit.c\\bit.c.vcxproj|solutionrelative:bit.c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B87C0B-4FDE-48A1-89AA-941E15B24C88}|c\\c.vcxproj|C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71B87C0B-4FDE-48A1-89AA-941E15B24C88}|c\\c.vcxproj|solutionrelative:c\\Source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,24 +36,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.c",
+              "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bp\\Source.c",
+              "RelativeDocumentMoniker": "bp\\Source.c",
+              "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bp\\Source.c",
+              "RelativeToolTip": "bp\\Source.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-11T10:05:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\c\\Source.c",
               "RelativeDocumentMoniker": "c\\Source.c",
               "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\c\\Source.c",
               "RelativeToolTip": "c\\Source.c",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAuwGwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAuwG8AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-10T18:26:49.85Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bit.c\\Source.c",
               "RelativeDocumentMoniker": "bit.c\\Source.c",
               "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\bit.c\\Source.c",
               "RelativeToolTip": "bit.c\\Source.c",
-              "ViewState": "AgIAACkAAAAAAAAAAAAuwDEAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAUwKUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-10T16:39:34.559Z",
               "EditorCaption": ""
@@ -69,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Source.c",
               "DocumentMoniker": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\Program\\Source.c",
               "RelativeDocumentMoniker": "Program\\Source.c",
               "ToolTip": "C:\\Users\\Wjs93\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\c text\\c.pp\\Program\\Program\\Source.c",
               "RelativeToolTip": "Program\\Source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-07T15:59:11.548Z",
               "EditorCaption": ""
