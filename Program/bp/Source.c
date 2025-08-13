@@ -62,4 +62,46 @@ void main()
 	// 있는 크기로 정해지며, 한 번에 처리할 수 있는 크기는
 	// 운영체제에 따라 크기가 결정됩니다.
 #pragma endregion
+#pragma region 범용 포인터
+	// 자료형이 정해지지 않은 상태로 모든 자료형을
+	// 저장할 수 있는 포인터입니다.
+
+	char rank = 'A';
+	int count = 10;
+	float angle = 3.14f;
+
+	void* reference = NULL; // 범용 포인터 변수 선언
+
+	reference = &rank; // rank 변수의 주소 값을 저장합니다.
+
+	// 범용 포인터는 메모리 주소에 접근해서 값을
+	// 변경할 수 없습니다.
+
+	*(char *)reference = 'B'; // rank 변수의 값을 변경합니다.
+	printf("rank 변수의 값: %c\n", rank);	
+	printf("reference 변수의 값: %p\n\n", reference);
+#pragma endregion
+
+#pragma region 	상수 지시 포인터
+	
+
+		//// 포인터가 가리키는 주소에 저장되어 있는 값을 변경할 수 없도록
+		//// 지정되어 있는 포인터입니다.
+
+		//int room1 = 10;
+		//int room2 = 20;
+		//
+		//const int* pt = &room1;
+		////* const pointer = 999;
+
+		//printf("pt 변수의 값: %p\n", pt);
+		//printf("room1 변수의 주소: %p\n", &room1);
+		//
+		//const int* const pt2 = &room2; 
+		//printf("pt2 변수의 값: %p\n", pt2);
+		//printf("room2 변수의 주소: %p\n", &room2);
+
+#pragma endregion
+
+#pragma region 포인터 
 
